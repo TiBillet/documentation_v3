@@ -1,0 +1,6 @@
+/* TEAM */
+Creator: Adrienne, Axel, Jonas, Mike
+
+/* SITE */
+Generator: Docs2Static (https://github.com/CoopCodeCommun/Docs2static)
+Language: fr

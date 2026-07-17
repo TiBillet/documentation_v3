@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tibillet.github.io/documentation_v3/sitemap.xml
